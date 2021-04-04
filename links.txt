@@ -1,0 +1,3 @@
+rtsp://root:root@WIN-1KL8TO52AL2:554/hosts/WIN-1KL8TO52AL2/DeviceIpint.1/SourceEndpoint.video:0:0
+rtsp://root:root@WIN-9Q3H84BLDN6:554/hosts/WIN-9Q3H84BLDN6/DeviceIpint.1/SourceEndpoint.video:0:0
+
